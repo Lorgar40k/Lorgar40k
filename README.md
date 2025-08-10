@@ -41,7 +41,7 @@
 
 ## 📫 Контакты
 
-- Telegram: @Lorgar40k
+- Telegram: [@Lorgar40k](https://t.me/Lorgar40k)  
 - GitHub: [https://github.com/Lorgar40k](https://github.com/Lorgar40k)  
 - Email: [warhale40x@gmail.com](mailto:warhale40k@gmail.com.com) 
 
