@@ -41,7 +41,7 @@
 
 ## 📫 Контакты
 
-- Telegram: [@ResumeAlex_bot](https://t.me/ResumeAlex_bot)  
+- Telegram: @Lorgar40k
 - GitHub: [https://github.com/Lorgar40k](https://github.com/Lorgar40k)  
 - Email: [warhale40x@gmail.com](mailto:warhale40k@gmail.com.com) 
 
