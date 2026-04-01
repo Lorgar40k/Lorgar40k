@@ -2,8 +2,19 @@
 
 # Привет! 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lorgar40k&show_icons=true&hide_title=true&count_private=true&theme=radical)](https://github.com/Lorgar40k)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorgar40k&layout=compact&theme=radical)](https://github.com/Lorgar40k)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lorgar40k&theme=radical" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lorgar40k&theme=radical" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lorgar40k&theme=radical" alt="Top Languages by Commit" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lorgar40k&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
