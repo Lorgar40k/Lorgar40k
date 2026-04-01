@@ -3,7 +3,7 @@
 # Привет! 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lorgar40k&show_icons=true&hide_title=true&count_private=true)](https://github.com/Lorgar40k)
-
+https://lorgar40k.github.io/
 ---
 
 ## 👨‍💻 О себе
