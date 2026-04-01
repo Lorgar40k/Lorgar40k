@@ -2,7 +2,8 @@
 
 # Привет! 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lorgar40k&show_icons=true&hide_title=true&count_private=true)](https://github.com/Lorgar40k)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lorgar40k&show_icons=true&hide_title=true&count_private=true&theme=radical)](https://github.com/Lorgar40k)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorgar40k&layout=compact&theme=radical)](https://github.com/Lorgar40k)
 
 ---
 
@@ -44,7 +45,7 @@
 - Telegram: [@Lorgar40k](https://t.me/Lorgar40k)  
 - GitHub: [https://github.com/Lorgar40k](https://github.com/Lorgar40k)  
 - 🌐 **Сайт-визитка:** [https://lorgar40k.github.io/](https://lorgar40k.github.io/)
-- Email: [warhale40k@gmail.com](mailto:warhale40x@gmail.com)
+- Email: [warhale40x@gmail.com](mailto:warhale40x@gmail.com)
 
 ---
 
